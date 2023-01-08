@@ -4,7 +4,7 @@ import interactive from '../../src/images/desktop/image-interactive.jpg'
 const Mainimg = () => {
   return (
     <div>
-        <img src={ interactive } alt="interactive" srcset="" className='w-[130rem]' />
+        <img src={ interactive } alt="interactive" srcset="" className='w-[170rem]' />
     </div>
   )
 }
